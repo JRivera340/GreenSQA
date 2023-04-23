@@ -1,0 +1,5 @@
+package model;
+
+public enum TypeStage {
+    INCIO,ANALISIS,DISEÑO,EJECUCION,CIERRE_Y_SEGUIMIENTO,CONTROL_DEL_PROYECTO;
+}
